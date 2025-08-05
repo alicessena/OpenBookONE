@@ -1,13 +1,13 @@
-# 📚 Literalura: Catálogo de Livros e Autores
+# 📚 OpenBook: Catálogo de Livros e Autores
 
-**Literalura** é uma aplicação de linha de comando desenvolvida como parte do desafio **Oracle Next Education (ONE) G8**.  
+**OpenBook** é uma aplicação de linha de comando desenvolvida como parte do desafio **Oracle Next Education (ONE) G8**.  
 Ela permite que os usuários interajam com a **API Gutendex** para buscar informações sobre livros e autores, registrar esses dados em um banco de dados **PostgreSQL**, e realizar consultas diversas sobre o acervo.
 
 ---
 
 ## ✨ Funcionalidades
 
-Literalura oferece um menu interativo com as seguintes opções:
+OpenBook oferece um menu interativo com as seguintes opções:
 
 - **Buscar livros pelo título**  
   Pesquisa um livro na API Gutendex utilizando o título fornecido pelo usuário.  
