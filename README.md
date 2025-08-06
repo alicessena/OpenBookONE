@@ -5,6 +5,10 @@ Ela permite que os usuários interajam com a **API Gutendex** para buscar inform
 
 ---
 
+## 🏅 Badge de Conclusão do desafio
+
+<a href=""><img src="./img/Badge-Literalura.png" width="100px"></a>
+
 ## ✨ Funcionalidades
 
 OpenBook oferece um menu interativo com as seguintes opções:
